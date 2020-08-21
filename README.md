@@ -1,4 +1,4 @@
-# SQL Server Perf Tune and Monitor   
+# SQL Server Perf Tune & Monitor   
 
 ```
 A collection  
