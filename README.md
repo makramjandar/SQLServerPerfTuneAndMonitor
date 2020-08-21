@@ -34,7 +34,7 @@ monitor, administer, copy, tune, etc.
 <b> [- Article Scripts](https://github.com/ApexSQL/Article-scripts)</b>: Companion scripts for solution articles.  
   
 <b> [SqlAdmin](https://host.apexsql.com/Download.aspx)</b>  
-<b> [- AwesomeSQLServer](https://github.com/SQLadmin/AwesomeSQLServer)</b>: A big collection of SQL Server Queries and documeantations to fix your SQL Server's bottle neck.  
+<b> [- Awesome SQL Server](https://github.com/SQLadmin/AwesomeSQLServer)</b>: A big collection of SQL Server Queries and documeantations to fix your SQL Server's bottle neck.  
 <b> [- T-SQL Tools](https://github.com/SQLadmin/tsqltools)</b>: Tsql stored procedures and scripts to help the DBAs and Developers to make their job easier.  
   
 <b> [Misc]()</b>  
