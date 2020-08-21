@@ -1,10 +1,9 @@
 # SQL Server Performance Tuning and Monitoring
 
 ```
-A collection of various adhoc SQL Server scripts which can be used to monitor, administer, copy, tune, etc.
+A collection of various adhoc SQL Server scripts 
+which can be used to monitor, administer, copy, tune, etc.
 ```
-
-
 
 
 <b> [- SQLDBA-SSMS-Solution](https://github.com/imajaydwivedi/SQLDBA-SSMS-Solution)</b>  
