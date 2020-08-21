@@ -50,6 +50,4 @@ monitor, administer, copy, tune, etc.
 <b> [- Awesome SQL](https://github.com/danhuss/awesome-sql)</b>: List of tools and techniques for working with relational databases inspired by other awesome lists.  
 <b> [- Awesome SQL Server](https://github.com/mbiesiad/awesome-sql)</b>: SQL-related awesome list.  
 <b> [- Awesome SQLite](https://github.com/mindreframer/awesome-sqlite)</b>: All things around SQLite.  
-<b> [- Business Intelligence](https://github.com/thenaturalist/awesome-business-intelligence)</b>: A curated list of awesome tools to interact with data. ToC split by SaaS and OSS (Open Source Software).  
-
-https://github.com/mindreframer/awesome-sqlite
+<b> [- Business Intelligence](https://github.com/thenaturalist/awesome-business-intelligence)</b>: A curated list of awesome tools to interact with data. ToC split by SaaS and OSS (Open Source Software).
