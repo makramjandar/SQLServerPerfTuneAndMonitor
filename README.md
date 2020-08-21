@@ -1,4 +1,4 @@
-# SQL Server Perf Tune and Monitor
+# SQL Server Perf Tune and Monitor   
 
 ```
 A collection  
@@ -6,6 +6,9 @@ of various adhoc
 SQL Server scripts to  
 monitor, administer, copy, tune, etc.
 ```
+
+> <b> [Docs](https://github.com/MicrosoftDocs/sql-docs)</b>  
+
 <b> [Ajay Dwivedi](https://github.com/imajaydwivedi)</b>  
 <b> [- SQL DBA SSMS Solution](https://github.com/imajaydwivedi/SQLDBA-SSMS-Solution)</b>: SQL Server Management Solution containing various projects having SQL scripts to help DBA in carrying out daily activities.  
 <b> [- SQL DBA Tools](https://github.com/imajaydwivedi/SQLDBATools)</b>: Powershell Module containing cmdlets for carrying out SQL DBA activities.  
@@ -45,9 +48,9 @@ monitor, administer, copy, tune, etc.
 <b> [- SQL Server Scripts](https://github.com/kremers78/SQL-Server-Scripts)</b>  
 <b> [- Automatic Tuning 2017](https://github.com/hfleitas/AutomaticTuning2017)</b>: Pass Summit 2017 Summary Presentation.  
   
-<b> [Related]()</b>  
-<b> [- Awesome SQL](https://github.com/mbiesiad/awesome-sql)</b>: SQL-related awesome list.  
-<b> [- Awesome SQL](https://github.com/danhuss/awesome-sql)</b>: List of tools and techniques for working with relational databases inspired by other awesome lists.  
-<b> [- Awesome SQL Server](https://github.com/mbiesiad/awesome-sql)</b>: SQL-related awesome list.  
-<b> [- Awesome SQLite](https://github.com/mindreframer/awesome-sqlite)</b>: All things around SQLite.  
-<b> [- Business Intelligence](https://github.com/thenaturalist/awesome-business-intelligence)</b>: A curated list of awesome tools to interact with data. ToC split by SaaS and OSS (Open Source Software).
+><b> [Related]()</b>  
+><b> [- Awesome SQL](https://github.com/mbiesiad/awesome-sql)</b>: SQL-related awesome list.  
+><b> [- Awesome SQL](https://github.com/danhuss/awesome-sql)</b>: List of tools and techniques for working with relational databases inspired by other awesome lists.  
+><b> [- Awesome SQL Server](https://github.com/mbiesiad/awesome-sql)</b>: SQL-related awesome list.  
+><b> [- Awesome SQLite](https://github.com/mindreframer/awesome-sqlite)</b>: All things around SQLite.  
+><b> [- Business Intelligence](https://github.com/thenaturalist/awesome-business-intelligence)</b>: A curated list of awesome tools to interact with data. ToC split by SaaS and OSS (Open Source Software).
