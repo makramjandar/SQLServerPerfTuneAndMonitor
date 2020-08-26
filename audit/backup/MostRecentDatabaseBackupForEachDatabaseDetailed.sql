@@ -44,4 +44,4 @@ WHERE  msdb..backupset.type = 'D'
    ) AS B 
    ON A.[server] = B.[server] AND A.[database_name] = B.[database_name] AND A.[last_db_backup_date] = B.[backup_finish_date] 
 ORDER BY  
-   A.database_name 
+   A.database_name
