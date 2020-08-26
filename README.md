@@ -12,7 +12,7 @@ monitor, administer, copy, tune, etc.
 <b> [Ajay Dwivedi](https://github.com/imajaydwivedi)</b>  
 <b> [- SQL DBA SSMS Solution](https://github.com/imajaydwivedi/SQLDBA-SSMS-Solution)</b>: SQL Server Management Solution containing various projects having SQL scripts to help DBA in carrying out daily activities.  
 <b> [- SQL DBA Tools](https://github.com/imajaydwivedi/SQLDBATools)</b>: Powershell Module containing cmdlets for carrying out SQL DBA activities.  
-<b> [- First Responder Kit](https://github.com/imajaydwivedi/FirstResponderKit)</b>:  Separting Various Functions in Separate PowerShell Scripts.  
+<b> [- First Responder Kit](https://github.com/imajaydwivedi/FirstResponderKit)</b>: Separting Various Functions in Separate PowerShell Scripts.  
 <b> [- SQL Lab](https://github.com/imajaydwivedi/SQL_Lab)</b>: Contains scripts to setup SQL Server Lab Environment from scratch. 
   
 <b> [Matticusau](https://github.com/Matticusau)</b>  
